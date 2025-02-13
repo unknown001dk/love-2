@@ -105,7 +105,7 @@ function App() {
           <div className="relative group inline-block">
             <div className="absolute -inset-1 bg-gradient-to-r from-pink-500 to-red-500 rounded-2xl blur opacity-25 group-hover:opacity-75 transition duration-1000"></div>
             <img
-              src="./person.jpeg"
+              src="./person-2.jpeg"
               alt="Valentine's Day"
               className="rounded-2xl shadow-lg max-w-2xl w-full transition-all duration-500 group-hover:blur-sm relative"
             />
